@@ -1,3 +1,6 @@
 [submodule "Front-end"]
 	path = Front-end
 	url = https://github.com/AlejandraPonce123/Fronted-de-la-api
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/AlejandraPonce123/API-REST
