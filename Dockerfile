@@ -42,3 +42,5 @@ EXPOSE 80
 
 # Iniciar Apache en primer plano
 CMD ["apache2-foreground"]
+
+#ESTA ES nuestra imagen que se ha configurado segun nuestras necesidades

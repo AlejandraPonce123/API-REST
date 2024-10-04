@@ -31,5 +31,6 @@ class Equipo extends Model
     }
 }
 
+//lo que maneja la tabla en la base de datos
 
 

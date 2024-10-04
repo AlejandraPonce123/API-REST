@@ -160,3 +160,5 @@ UPDATE jugadores SET posicion = 'Extremo derecho' WHERE posicion IN ('Extremo', 
 
 -- Delanteros
 UPDATE jugadores SET posicion = 'Delantero' WHERE posicion IN ('Delantero');
+
+
